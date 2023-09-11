@@ -10,10 +10,11 @@ Highlights
 Well-organized solutions for CPP and DSA problems.
 Efficient auto-typing tool to save you time during problem submission.
 
-# Credits
-Veerababu
 
-Saviti veerababu: Contributed solutions to many problems.
+## Credits
+
+- [Saviti Veerababu]((https://github.com/veerababu2103))
+
 
 # Courses Solutions
 CPP (CSE-202): Solutions for programming problems, organized by units and lectures.
@@ -23,28 +24,31 @@ The repository is organized as follows:
 
 /
 ├── CPP/
-│ ├── Unit-1/
-│ │ ├── Lecture-1/
-│ │ ├── Lecture-2/
-│ │ └── ...
-│ ├── Unit-2/
-│ └── ...
+│   ├── Unit-1/
+│   │   ├── Lecture-1/
+│   │   ├── Lecture-2/
+│   │   └── ...
+│   ├── Unit-2/
+│   └── ...
 ├── DSA/
-│ ├── Unit-1/
-│ │ ├── Lecture-1/
-│ │ ├── Lecture-2/
-│ │ └── ...
-│ ├── Unit-3
-│ ├── Unit-2
-│ └── ...
+│   ├── Unit-1/
+│   │   ├── Lecture-1/
+│   │   ├── Lecture-2/
+│   │   └── ...
+│   ├── Unit-3
+│   ├── Unit-2
+│   └── ...
 ├── README.md
 └── ...
 
 Feel free to explore the folders and navigate to the respective problem solutions.
 
-# Contact
+## Contact
+
 If you have any questions, or suggestions, or want to connect, you can reach out to me:
 
-Gmail: Saviti Veerababu
-LinkedIn: Saviti Veerababu
+- Gmail: [Saviti Veerababu](mailto:veerababusaviti2103@gmail.com)
+- LinkedIn [Saviti Veerababu](https://www.linkedin.com/in/veera-babu-saviti/)
+
+
 Don't forget to star ⭐ this repository if you find it helpful. Happy coding! 🚀
