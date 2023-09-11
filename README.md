@@ -89,10 +89,8 @@ git push origin your_branch_name
 If you have any questions, or suggestions, or want to connect, you can reach out to me at:
 
 - Gmail: [Saviti Veerababu](mailto:veerababusaviti2103@gmail.com)
-- LinkedIn [Saviti Veerababu](https://www.linkedin.com/in/veera-babu-saviti/)
+- LinkedIn: [Saviti Veerababu](https://www.linkedin.com/in/veera-babu-saviti/)
 - WhatsApp Chat: [Chat with Me](https://wa.me/6283802486)
-
-)
 
 
 Don't forget to star ⭐ this repository if you find it helpful. Happy coding! 🚀
