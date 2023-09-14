@@ -4,9 +4,10 @@ Welcome to the LPU-COLAB-SOLUTIONS repository! This repository contains comprehe
 
 # Disclaimer: This repository is solely intended for educational purposes.
 
-This repository is a collaborative effort by Ashmit Mehta (GitHub: ash-codes18) and Sushant (GitHub: 07Sushant). Our objective is to provide valuable coding resources to our fellow students at Lovely Professional University (LPU) to assist them in tackling coding challenges in the CPP and DSA courses.
+This repository is a collaborative effort by Saviti Veerababu(Github: veerababu2103) and Amaraneni Nithin. Our objective is to provide valuable coding resources to our fellow students at Lovely Professional University (LPU) to assist them in tackling coding challenges in the CPP and DSA courses.
 
-Highlights
+# Highlights
+
 Well-organized solutions for CPP and DSA problems.
 Efficient auto-typing tool to save you time during problem submission.
 
@@ -14,9 +15,10 @@ Efficient auto-typing tool to save you time during problem submission.
 ## Credits
 
 - [Saviti Veerababu](https://github.com/veerababu2103)
-
+- Amaraneni Nithin
 
 # Courses Solutions
+
 CPP (CSE-202): Solutions for programming problems, organized by units and lectures.
 DSA (CSE-205): Solutions for various data structures and algorithms problems, organized by units and lectures.
 Repository Structure
@@ -45,7 +47,7 @@ Feel free to explore the folders and navigate to the respective problem solution
 
 ## Autotyper
 
-To enhance your experience when using the solutions provided in this repository, i've included a convenient "Autotyper" tool.
+To enhance your experience when using the solutions provided in this repository, we've included a convenient "Autotyper" tool.
 
 1. Download the [Autotyper](https://sourceforge.net/projects/ultimatebot/)
 2. Open the folder and extract it.
@@ -53,16 +55,27 @@ To enhance your experience when using the solutions provided in this repository,
 
 ### How to Use the Autotyper
 
-1. Open the autotyper and Press "yes" for all the notifications it shows.
-2. Now, copy the required answer from the repository and then paste it in the box that says "Your custom text here".
-3. Now, select "custom text" from the radio buttons and adjust the speed.
-4. Now change the time for starting the autotyper based on your requirements.
-5. Now press start and then place the cursor on LPUCOLAB, where we write the code, and then right click.
-6. The autotyper should start writing the code based on the time you selected for it to start.
+1. Open the autotyper and accept all notifications by clicking "yes."
+
+2. Next, copy the desired answer from the repository.
+
+3. Paste the copied answer into the input box labeled "Your custom text."
+
+4. Choose "custom text" from the available radio buttons.
+
+5. Adjust the typing speed to your preference.
+
+6. Set the start time for the autotyper according to your needs.
+
+7. Click the "start" button.
+
+8. Place the cursor in LPUCOLAB, where you typically write code.
+
+9. Right-click to initiate the autotyper, which will begin typing the code based on your chosen start time.
 
 ## Contribution
 
-Contributions to this repository are welcome! If you have alternative solutions, improvements, or suggestions for the existing solutions, please feel free to create a pull request. Please ensure that your contributions align with the academic integrity guidelines of our institution. Please follow these steps for contributing:
+Contributions to this repository are welcome! If you have alternative solutions, improvements, or suggestions for the existing solutions, please feel free to create a pull request. Please ensure that your contributions align with the academic integrity guidelines of our institution. Please follow these steps to contribute:
 
 1. Fork the repository.
 
