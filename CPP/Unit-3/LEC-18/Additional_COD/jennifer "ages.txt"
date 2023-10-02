@@ -1,0 +1,56 @@
+#include <iostream>
+#include <iomanip>
+#include <fstream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+
+    if (n > 20) {
+        cout << "Exceeding limit!" << endl;
+        return 0;
+    }
+
+    vector<int> ages;
+    int age;
+    int count = 0;
+
+    while (cin >> age) {
+        ages.push_back(age);
+        ++count;
+        if (count == n) break;
+    }
+
+    if (count != n) {
+        cout << "Exceeding limit!" << endl;
+        return 0;
+    }
+
+    ofstream outFile;
+    outFile.open("ages.txt", ios::out);
+    for (int individual_age : ages) {
+        outFile << individual_age << " ";
+    }
+    outFile.close();
+
+    ifstream inFile;
+    inFile.open("ages.txt", ios::in);
+
+    int sum = 0;
+    while (inFile >> age) {
+        sum += age;
+    }
+    inFile.close();
+
+    if (n > 0) {
+        double average_age = static_cast<double>(sum) / n;
+        cout << fixed << setprecision(1) << average_age << endl;
+    } else {
+        cout << "No ages provided." << endl;
+    }
+
+    return 0;
+}
